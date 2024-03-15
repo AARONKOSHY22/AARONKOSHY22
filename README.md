@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron James Koshy</h1>
+<h1 align="center">Aaron James Koshy</h1>
 <h3 align="center">Aspiring to Safeguard the Digital World: An Ethical Hacker, Protector of the Cyber Realm.</h3>
 
 - 🌱 I’m currently learning **Kotlin**
